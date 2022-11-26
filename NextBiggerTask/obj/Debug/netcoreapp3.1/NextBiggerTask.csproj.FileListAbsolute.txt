@@ -1,0 +1,10 @@
+C:\Users\RomaNov\source\repos\next-bigger\NextBiggerTask\bin\Debug\netcoreapp3.1\NextBiggerTask.deps.json
+C:\Users\RomaNov\source\repos\next-bigger\NextBiggerTask\bin\Debug\netcoreapp3.1\NextBiggerTask.dll
+C:\Users\RomaNov\source\repos\next-bigger\NextBiggerTask\bin\Debug\netcoreapp3.1\NextBiggerTask.pdb
+C:\Users\RomaNov\source\repos\next-bigger\NextBiggerTask\obj\Debug\netcoreapp3.1\NextBiggerTask.csproj.AssemblyReference.cache
+C:\Users\RomaNov\source\repos\next-bigger\NextBiggerTask\obj\Debug\netcoreapp3.1\NextBiggerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RomaNov\source\repos\next-bigger\NextBiggerTask\obj\Debug\netcoreapp3.1\NextBiggerTask.AssemblyInfoInputs.cache
+C:\Users\RomaNov\source\repos\next-bigger\NextBiggerTask\obj\Debug\netcoreapp3.1\NextBiggerTask.AssemblyInfo.cs
+C:\Users\RomaNov\source\repos\next-bigger\NextBiggerTask\obj\Debug\netcoreapp3.1\NextBiggerTask.csproj.CoreCompileInputs.cache
+C:\Users\RomaNov\source\repos\next-bigger\NextBiggerTask\obj\Debug\netcoreapp3.1\NextBiggerTask.dll
+C:\Users\RomaNov\source\repos\next-bigger\NextBiggerTask\obj\Debug\netcoreapp3.1\NextBiggerTask.pdb
